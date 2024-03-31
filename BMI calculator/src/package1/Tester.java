@@ -39,7 +39,7 @@ public class Tester {
 
     public static void displayMenu() {
         System.out.println("Welcome!");
-        System.out.println(" ∗∗∗ BMI CALCULATOR ∗∗∗ ");
+        System.out.println("** BMI CALCULATOR **");
         System.out.println("");
         System.out.println("1.Make a record");
         System.out.println("2.Display BMI data for all users. ");
